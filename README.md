@@ -99,7 +99,7 @@ Here I took the top candidates I'd found (score <-16 and weight <900 daltons) an
 
 As you can see, the model generated significantly better binding scores than existing drugs.
 
-![final results PyRx screenshot](./generations/results/final_results.jpg "PyRx Final Results")
+![final results PyRx screenshot](https://github.com/mattroconnor/deep_learning_coronavirus_cure/blob/master/generations/results/final_results.JPG "PyRx Final Results")
 
 See './generations/master_results_table_final.csv' for full table of final results.
 
