@@ -1,0 +1,27 @@
+{
+    "exp_name": "LSTM_Chem",
+    "data_filename": "./datasets/dataset_cleansed.smi",
+    "data_length": 0,
+    "units": 256,
+    "num_epochs": 22,
+    "optimizer": "adam",
+    "seed": 71,
+    "batch_size": 256,
+    "validation_split": 0.10,
+    "verbose_training": true,
+
+    "checkpoint_monitor": "val_loss",
+    "checkpoint_mode": "min",
+    "checkpoint_save_best_only": false,
+    "checkpoint_save_weights_only": true,
+    "checkpoint_verbose": 1,
+    "tensorboard_write_graph": true,
+
+    "sampling_temp": 0.75,
+    "smiles_max_length": 128,
+    "train_smi_max_len": 128,
+
+    "finetune_epochs": 12,
+    "finetune_batch_size": 1,
+    "finetune_data_filename": "./datasets/TRPM8_inhibitors_for_fine-tune.smi"
+}

@@ -1,0 +1,8 @@
+NC(=O)C(Cc1ccccc1)NC(=O)C(Cc1ccccc1)NC(=O)C1C2CC(NC(=O)C(Cc3ccccc3)C(=O)NC(Cc3ccccc3)C(=O)O)CC1C2
+O=C(NC1CC2CCC(C1)N2CCc1ccccn1)C1CC2CCC(C1)C2C(=O)NC(Cc1ccccc1)C(=O)NC(Cc1ccccc1)C(=O)NC(Cc1ccccc1)C(=O)O
+O=C(NC1CC2CCC(C1)N2CCc1ccccc1)C1CC2CC(C1)C2C(=O)NC(Cc1ccccc1)C(=O)NC(Cc1ccccc1)C(=O)NC(Cc1ccccc1)C(=O)O
+O=C(NC1CC2CCC(C1)N2CCc1ccccn1)C1CC2CC(C1)C2C(=O)NC(Cc1ccccc1)C(=O)NC(Cc1ccccc1)C(=O)NC(Cc1ccccc1)C(=O)O
+CC(C)(C)NC(=O)C1CC2CCC(CC1C(=O)NC(Cc1ccccc1)C(=O)O)C2CC(O)C(Cc1ccccc1)NC(=O)C1C2CC(NC(=O)C(Cc3ccccc3)C(=O)O)CC1C2
+O=C(NC(Cc1ccccc1)C(=O)NC(Cc1ccccc1)C(=O)O)C1CC2CC(C1)C2C(=O)NC(Cc1ccccc1)C(=O)NC(Cc1ccccc1)C(=O)O
+O=C(O)C(Cc1ccccc1)NC(=O)C(Cc1ccccc1)NC(=O)C1C2CC(NC(=O)C(Cc3ccccc3)C(=O)NC(Cc3ccccc3)C(=O)O)CC1C2
+O=C(NC1CC2CCCC(C1)N2CCc1ccccc1)C1CC2CC(C1)C2C(=O)NC(Cc1ccccc1)C(=O)NC(Cc1ccccc1)C(=O)NC(Cc1ccccc1)C(=O)O
