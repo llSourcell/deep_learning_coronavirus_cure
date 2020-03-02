@@ -95,7 +95,7 @@ I repeated the above steps across 10 generations, each time using the best fit +
 
 ## Final Results - 'Final Results.ipynb'
 
-Here I took the top candidates I'd found (score <-16 and weight <900 daltons) and reran them in PyRx, splitting out columns for each molecules best binding score, and its average binding score (its average across the molecule's modes in PyRx), and each molecules similarity to existing HIV inhibitor drugs and the drug Remdesivir which is currently in clinical testing.
+Here I took the top candidates I'd found (score <-15 and weight <900 daltons) and reran them in PyRx, splitting out columns for each molecules best binding score, and its average binding score (its average across the molecule's modes in PyRx), and each molecules similarity to existing HIV inhibitor drugs and the drug Remdesivir which is currently in clinical testing.
 
 As you can see, the model generated significantly better binding scores than existing drugs.
 
@@ -105,8 +105,8 @@ See './generations/master_results_table_final.csv' for full table of final resul
 
 ## Next Steps
 
-- Have a domain expert analyze top findings for fit
-- Find the existing drugs in the approved drug universe which are most similar to top findinds are evaluate for fit
+- Have a domain expert analyze top findings for fit and/or find the molecules in the universe of existing approved drugs which are most similar to top findings and evaluate them for fit
+- According to [this paper](https://arxiv.org/pdf/1703.07076.pdf) the baseline model may be further improved by training on a universe of enumerated smiles, not just canonical smiles
 - Code needs refactoring
 
 ## About Me (Matt O'Connor)

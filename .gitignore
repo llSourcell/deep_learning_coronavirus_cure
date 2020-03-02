@@ -1,6 +1,7 @@
 ./datasets/CHEMBL25-chembl_molecule.csv
 ./datasets/moses_dataset_v1.txt
 ./datasets/all_smiles.smi
+./datasets/all_smiles_clean.smi
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
